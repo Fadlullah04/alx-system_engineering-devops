@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $(($POWER//$RULE\n))
+echo "$(($POWER // $RULE))"
