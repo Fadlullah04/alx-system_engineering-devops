@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff  pwd | cat
+chown vincent:staff   cat myfoel
